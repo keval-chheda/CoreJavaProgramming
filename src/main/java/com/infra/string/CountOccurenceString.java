@@ -13,7 +13,8 @@ public class CountOccurenceString {
 				.mapToObj(s -> (char)s)
 				.collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
 		
-		countCharacter.forEach((character, count) -> System.out.println(character+":"+ count));
+//		countCharacter.forEach((character, count) -> System.out.println(character+":"+ count));
+		System.out.println(countCharacter);
 	}
 
 }
