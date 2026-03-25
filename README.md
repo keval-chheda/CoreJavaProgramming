@@ -74,6 +74,18 @@ The package layout is intentionally topic-oriented so shared code immediately co
 
 This gives a professional “all major coding topics covered” signal when you share the repository link.
 
+## Interview Roadmap
+
+Suggested high-impact additions for interview prep (including Java 25/26 topic ideas) are documented in:
+
+- `INTERVIEW_ROADMAP.md`
+
+## Complexity Documentation
+
+A complete time/space complexity reference (with short explanations) for all programs is available in:
+
+- `COMPLEXITY_GUIDE.md`
+
 ## Getting Started
 
 ### Prerequisites
