@@ -34,10 +34,10 @@ Defined in `pom.xml`:
 ## Repository Structure
 
 ```text
-src/main/java/com/infra/
+src/main/java/com/corejavaprogramming/
 ├── arrays/            # Array problems and transformations
 ├── corejava/          # Core Java basics and utility examples
-├── designPattern/     # Factory and Singleton samples
+├── designpattern/     # Factory and Singleton samples
 ├── dsa/               # Linked list, map, stack examples
 ├── hashmap/           # Concurrent and synchronized map examples
 ├── streamapi/         # Java 8 stream/lambda/collector examples
@@ -45,9 +45,34 @@ src/main/java/com/infra/
 ├── stringbuffer/      # StringBuffer operations
 └── ...                # Comparable/comparator, recursion, servlet, etc.
 
-src/main/java/com/programmingKC/dsa/algorithm/
-└── searching examples (LinearSearch, BinarySearch)
+├── dsa/algorithm/      # Searching algorithms (LinearSearch, BinarySearch)
 ```
+
+
+## Package Naming (Professional Best Practice)
+
+If your goal is to share this repository publicly (with recruiters, teammates, or interview peers), package naming consistency matters.
+
+Recommended conventions:
+
+- Use a **single lowercase base package** (for example: `com.yourname.corejavaprogramming` or `io.github.yourusername.corejavaprogramming`)
+- Keep package segments lowercase only (no uppercase segments like `programmingKC` or `Collectors`)
+- Use topic-based subpackages under that base package (for example: `.arrays`, `.corejava`, `.dsa.searching`, `.streamapi`)
+- Avoid mixed naming styles such as `designPattern` and `methodReference`; prefer `designpattern` and `methodreference`
+
+This repository now uses a single unified base package, `com.corejavaprogramming`, so anyone reviewing the code can immediately recognize this as one consolidated collection of core Java coding topics.
+
+## Topic Coverage via Package Structure
+
+The package layout is intentionally topic-oriented so shared code immediately communicates breadth:
+
+- `com.corejavaprogramming.corejava` → Java basics and foundational programs
+- `com.corejavaprogramming.arrays` and `...string` → common coding interview problem sets
+- `com.corejavaprogramming.dsa.*` → data structure and algorithm implementations
+- `com.corejavaprogramming.streamapi` and `...streamapi.collectors` → Java 8 functional style and collector patterns
+- `com.corejavaprogramming.designpattern` / `...comparable` / `...comparator` → OOP and design-oriented examples
+
+This gives a professional “all major coding topics covered” signal when you share the repository link.
 
 ## Getting Started
 
@@ -76,14 +101,14 @@ mvn clean compile
 Most classes are standalone examples with a `main` method. After compilation, run a class directly:
 
 ```bash
-java -cp target/classes com.infra.corejava.FactorialNumber
+java -cp target/classes com.corejavaprogramming.corejava.FactorialNumber
 ```
 
 Additional examples:
 
 ```bash
-java -cp target/classes com.programmingKC.dsa.algorithm.BinarySearch
-java -cp target/classes com.infra.streamapi.StreamAPI
+java -cp target/classes com.corejavaprogramming.dsa.algorithm.BinarySearch
+java -cp target/classes com.corejavaprogramming.streamapi.StreamAPI
 ```
 
 ## Learning Areas Covered
