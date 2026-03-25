@@ -13,7 +13,7 @@ public class LambdaCompareToExample {
         names.stream().sorted().forEach(System.out::print);
         
         
-        System.out.println("Sorted names: " + names);
+        System.out.println("\nSorted names: " + names);
     }
 }
 
