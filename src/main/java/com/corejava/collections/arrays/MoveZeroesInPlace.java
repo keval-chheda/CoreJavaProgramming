@@ -3,7 +3,7 @@ package com.corejava.collections.arrays;
 public class MoveZeroesInPlace {
 
 	public static void main(String[] args) {
-		// TODO Move Zeroes in place
+		// Move every zero to the end while preserving non-zero order.
 		int[] nums = {0, 1, 0, 3, 12};
 		System.out.println("Before moving zeroes: "+ java.util.Arrays.toString(nums));
 		
@@ -19,7 +19,7 @@ public class MoveZeroesInPlace {
 	}
 
 	private static void moveZeroesSinglePointer(int[] nums) {
-		// TODO using in-place algorithm single pointer approach
+		// Compact non-zero values with one write pointer, then fill trailing positions with zeroes.
 		int nonZeroIndex = 0;
 		for(int i = 0; i < nums.length; i++) {
 			if(nums[i] != 0) {

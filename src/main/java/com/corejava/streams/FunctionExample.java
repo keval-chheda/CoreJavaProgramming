@@ -19,7 +19,7 @@ import java.util.function.Function;
 public class FunctionExample{
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Apply a Function that calculates the square of an integer.
 		Function<Integer, Integer> square = x -> x*x;
 		Integer result =  square.apply(5);
 		System.out.println(result);
@@ -51,4 +51,3 @@ public class FunctionExample{
 
 
 }
-

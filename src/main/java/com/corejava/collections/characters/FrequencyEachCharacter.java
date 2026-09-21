@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 public class FrequencyEachCharacter {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Count how often each character appears in the input text.
 		String input = "Hello WOrld";
 		
 		Map<Character, Long> freq = input.trim().chars()
@@ -26,4 +26,3 @@ public class FrequencyEachCharacter {
 	}
 
 }
-

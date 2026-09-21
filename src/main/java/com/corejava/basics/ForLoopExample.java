@@ -3,7 +3,7 @@ package com.corejava.basics;
 public class ForLoopExample {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Print the greeting once for each loop iteration.
 		for(int i = 0; i < 10; i++) {
 			System.out.println("hello world");
 		}
@@ -16,4 +16,3 @@ public class ForLoopExample {
 	}
 
 }
-

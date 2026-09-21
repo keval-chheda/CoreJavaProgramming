@@ -3,7 +3,7 @@ package com.corejava.basics;
 public class ReverseStringWithCharacterArray {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Reverse the input text by swapping characters in an array.
 
 		String s="keval";
 		System.out.println("reverse string is "+reverseCharacterArray(s));
@@ -23,4 +23,3 @@ public class ReverseStringWithCharacterArray {
 	}
 
 }
-

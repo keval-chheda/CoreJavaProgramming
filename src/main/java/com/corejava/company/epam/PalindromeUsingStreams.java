@@ -7,7 +7,7 @@ import java.util.stream.IntStream;
 public class PalindromeUsingStreams {
 
 	public static void main(String[] args) {
-		// TODO return palindrome using streams of list of strings
+		// Filter the input words to retain only palindromes.
 		List<String> words = Arrays.asList("level", "hello", "world", "radar", "java", "python", "madam");
 		List<String> palindromes = words.stream()
 				.filter(word -> word.equals(new StringBuilder(word).reverse().toString()))
@@ -24,7 +24,7 @@ public class PalindromeUsingStreams {
 
 	
 	private static boolean isPalindromes(String word) {
-		// TODO check if the word is palindrome
+		// Reverse the word and compare it with the original text.
 		String reversed = new StringBuilder(word).reverse().toString();
 		return word.equals(reversed);
 	}

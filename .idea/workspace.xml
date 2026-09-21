@@ -7,7 +7,40 @@
     <option name="selectedModelId" value="auto" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3b486a1-8893-4183-ab08-94c4477eeac3" name="Changes" comment="" />
+    <list default="true" id="b3b486a1-8893-4183-ab08-94c4477eeac3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/basics/FactorialNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/basics/FactorialNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/basics/ForLoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/basics/ForLoopExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/basics/ReverseStringWithCharacterArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/basics/ReverseStringWithCharacterArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/basics/ReverseStringWithLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/basics/ReverseStringWithLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/GreaterElementFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/GreaterElementFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/IntersectionArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/IntersectionArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/MoveZeroesInPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/MoveZeroesInPlace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/PalindromeJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/PalindromeJava8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/PeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/PeakElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/RemoveDuplicateArrayElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/RemoveDuplicateArrayElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/characters/CharCountMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/characters/CharCountMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/characters/FrequencyEachCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/characters/FrequencyEachCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/lists/SortLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/lists/SortLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/maps/ConcurrentHashMapEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/maps/ConcurrentHashMapEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/strings/CharacterOccurrenceInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/strings/CharacterOccurrenceInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/strings/CharacterOccurrenceUsingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/strings/CharacterOccurrenceUsingArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/strings/DuplicateCharacterString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/strings/DuplicateCharacterString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/strings/FirstNonRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/strings/FirstNonRepeatingChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/company/epam/FindMaximumElementinArrayAndItsIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/company/epam/FindMaximumElementinArrayAndItsIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/company/epam/PalindromeUsingStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/company/epam/PalindromeUsingStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/CalculateSquareEx10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/CalculateSquareEx10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/EmployeeAvgSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/EmployeeAvgSalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/FunctionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/FunctionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/LambdaStringtoUppercaseEx11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/LambdaStringtoUppercaseEx11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/MethodReferenceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/MethodReferenceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/ReduceExample12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/ReduceExample12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/SeparateOddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/SeparateOddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/SortingStringByLength03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/SortingStringByLength03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/StreamEx07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/StreamEx07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/SummationUsingStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/SummationUsingStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

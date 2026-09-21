@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 public class CharacterOccurrenceUsingArray {
 	
 	public static void main(String args[]) {
-		// TODO Auto-generated method stub
+		// Count alphabetic characters with a fixed-size frequency array.
 		String senetence = "counting characters";
 		
 		Map<String, Long> countCharacter = Arrays.stream(senetence.split(""))
@@ -18,4 +18,3 @@ public class CharacterOccurrenceUsingArray {
 	}
 
 }
-

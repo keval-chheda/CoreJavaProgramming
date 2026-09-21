@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 public class LambdaStringtoUppercaseEx11 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Convert every name to uppercase with a stream mapping operation.
 		List<String> names = Arrays.asList("keval", "aayush", "rishi");
 		List<String> uppercase = names.stream().map(n -> n.toUpperCase()).collect(Collectors.toList());
 		System.out.println(uppercase);
@@ -16,4 +16,3 @@ public class LambdaStringtoUppercaseEx11 {
 	}
 
 }
-

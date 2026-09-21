@@ -17,7 +17,7 @@ public class GreaterElementFinder {
 
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Find the greatest value in the array using an integer stream.
 		int a[] = {1,2,3,5, 3,1, -1, -3};
 		Integer max = Arrays.stream(a).max().getAsInt();
 //		System.out.println("Max element in the array is: " + max);
@@ -30,4 +30,3 @@ public class GreaterElementFinder {
 	}
 
 }
-

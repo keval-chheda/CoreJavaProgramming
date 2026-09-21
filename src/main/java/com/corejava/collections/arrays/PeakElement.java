@@ -21,7 +21,7 @@ public class PeakElement {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Locate a value that is greater than its neighboring elements.
 		int a[] = {1,2,3,4,1,2,2,2};
 		int n = a.length;
 		findPeakElement(a, n);
@@ -29,4 +29,3 @@ public class PeakElement {
 	}
 
 }
-

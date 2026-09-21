@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 public class SortingStringByLength03 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Sort the strings from shortest to longest.
 		List<String> names3 = new ArrayList<>(Arrays.asList("keval", "ceda", "aayush", "sharma"));
 		Comparator<String> byLength3 = (String s1, String s2) -> Integer.compare(s1.length(), s2.length());
 		Collections.sort(names3, byLength3);
@@ -35,4 +35,3 @@ public class SortingStringByLength03 {
 	}
 
 }
-

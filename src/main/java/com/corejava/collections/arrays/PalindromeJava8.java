@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 public class PalindromeJava8 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Select words whose reverse is equal to the original word.
 		List<String> words = Arrays.asList("keval", "yogesh", "nayan");
 		
 		StringBuilder s1 = new StringBuilder("nayan");
@@ -20,4 +20,3 @@ public class PalindromeJava8 {
 	}
 
 }
-

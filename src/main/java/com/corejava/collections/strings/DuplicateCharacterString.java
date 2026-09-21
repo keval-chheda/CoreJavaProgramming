@@ -3,7 +3,7 @@ package com.corejava.collections.strings;
 public class DuplicateCharacterString {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Identify repeated characters in the input string.
 		String str = "programmi";
 		findDuplicateChar(str);
 
@@ -25,4 +25,3 @@ public class DuplicateCharacterString {
 	}
 
 }
-

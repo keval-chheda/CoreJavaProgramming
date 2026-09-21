@@ -3,7 +3,7 @@ package com.corejava.basics;
 public class ReverseStringWithLoop {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Build the reversed text by traversing the input from right to left.
 
 		String originalString = "keval";
 		System.out.println("reverse string is"+ reverseString(originalString));
@@ -18,4 +18,3 @@ public class ReverseStringWithLoop {
 	}
 
 }
-

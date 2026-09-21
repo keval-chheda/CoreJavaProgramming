@@ -6,7 +6,7 @@ import java.util.concurrent.ConcurrentHashMap.KeySetView;
 public class ConcurrentHashMapEx {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Add sample entries to a thread-safe map and inspect its contents.
 		ConcurrentHashMap<String, String> conMap = new ConcurrentHashMap<>();
 		conMap.put("demo1", "testing1");
 		conMap.put("demo2", "testing2");
@@ -25,4 +25,3 @@ public class ConcurrentHashMapEx {
 	}
 
 }
-

@@ -53,7 +53,7 @@ public class EmployeeAvgSalary {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Create employees and calculate salary aggregates with streams.
 
 		List<EmployeeAvgSalary> listofEmployee = Arrays.asList((new EmployeeAvgSalary("keval", "developer", 24, 20000)),
 				(new EmployeeAvgSalary("keval", "developer", 24, 20000)),		
@@ -73,4 +73,3 @@ public class EmployeeAvgSalary {
 	}
 
 }
-

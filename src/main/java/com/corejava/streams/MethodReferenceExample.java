@@ -6,7 +6,7 @@ import java.util.function.Function;
 public class MethodReferenceExample {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Compare a lambda expression with an equivalent method reference.
 		Function<String, Integer> methodR = s -> Integer.parseInt(s);
 		Function<String, Integer> methodR1 = Integer::parseInt;
 		Integer num = methodR.apply("123");
@@ -21,4 +21,3 @@ public class MethodReferenceExample {
 	}
 
 }
-

@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 public class SeparateOddEven {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Partition the numbers into even and odd groups.
 		List<Integer>numbers = Arrays.asList(1,2,3,4,5,6,7,8);
 		Map<Boolean, List<Integer>> partitionedNumbers = numbers.stream().collect(Collectors.partitioningBy(n -> n%2==0));
 		

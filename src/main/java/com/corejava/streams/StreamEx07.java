@@ -5,7 +5,7 @@ import java.util.function.Consumer;
 public class StreamEx07 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Demonstrate a Consumer that prints a greeting for one name.
 //		List<String> name = new ArrayList<>(Arrays.asList("keval", "chheda", "is", "only", "one"));
 //		name.stream()
 //		.filter(names -> names.startsWith("k"))
@@ -17,4 +17,3 @@ public class StreamEx07 {
 	}
 
 }
-

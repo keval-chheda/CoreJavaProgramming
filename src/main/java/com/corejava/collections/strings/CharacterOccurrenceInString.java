@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 public class CharacterOccurrenceInString {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Group matching characters and count their occurrences with a stream.
 		String name = "Keval Chheda";
 		Map<Character, Long> countCharacter = name.chars()
 				.mapToObj(s -> (char)s)
@@ -18,4 +18,3 @@ public class CharacterOccurrenceInString {
 	}
 
 }
-

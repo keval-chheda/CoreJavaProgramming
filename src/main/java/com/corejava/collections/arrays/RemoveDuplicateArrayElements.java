@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 public class RemoveDuplicateArrayElements {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Remove blank values and duplicate names from the input array.
 		String[] name = {"keval", "vinod", ""};
 		List<String> filteredlist = Arrays.stream(name)
 				.filter(s -> s != null && !s.trim().isEmpty())
@@ -18,4 +18,3 @@ public class RemoveDuplicateArrayElements {
 	}
 
 }
-

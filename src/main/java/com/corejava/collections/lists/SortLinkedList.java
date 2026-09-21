@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 public class SortLinkedList {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Sort the names alphabetically and collect the result in a new list.
 		List<String> names = Arrays.asList("yogesh", "keval", "aayush", "harsh");
 
 		// using collections
@@ -34,4 +34,3 @@ public class SortLinkedList {
 	}
 
 }
-

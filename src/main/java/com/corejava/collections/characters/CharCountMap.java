@@ -6,7 +6,7 @@ import java.util.TreeMap;
 public class CharCountMap {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Build a sorted map containing the frequency of each character.
 		String s = "Hello";
 		Map<Character, Integer> charMap = new TreeMap<>();
 		for(char ch : s.toCharArray()) {
@@ -20,4 +20,3 @@ public class CharCountMap {
 	}
 
 }
-

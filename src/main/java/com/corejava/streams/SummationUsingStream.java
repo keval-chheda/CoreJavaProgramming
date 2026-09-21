@@ -8,7 +8,7 @@ import java.util.stream.DoubleStream;
 public class SummationUsingStream {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Convert each digit in the numeric text into a stream value.
 		String number = "1223456789";
 		
 //		char[] numbers = number.toCharArray();
@@ -21,4 +21,3 @@ public class SummationUsingStream {
 	}
 
 }
-
