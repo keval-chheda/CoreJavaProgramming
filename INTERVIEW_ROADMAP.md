@@ -5,19 +5,19 @@ This document reviews the current package coverage and suggests high-impact addi
 ## 1) Package Coverage Check
 
 Current package coverage is strong for:
-- `arrays`, `string`, `dsa/*` (algorithm, linkedlist, map, stack)
-- `corejava`, `streamapi`, `comparator/comparable`, `designpattern`
+- `arrays`, `string`, `collections/*` (algorithm, linkedlist, map, stack)
+- `corejava`, `streamapi`, `collections/sorting/comparable`, `designpattern`
 
 ### Missing or underrepresented interview areas
 
 To make your repository more “complete interview prep”, consider adding:
 
-1. `dsa/tree`
-2. `dsa/graph`
-3. `dsa/heap`
-4. `dsa/queue`
-5. `dsa/trie`
-6. `dsa/dp` (dynamic programming)
+1. `collections/tree`
+2. `collections/graph`
+3. `collections/heap`
+4. `collections/queue`
+5. `collections/trie`
+6. `collections/dp` (dynamic programming)
 7. `concurrency`
 8. `systemdesignlite` (small practical design exercises)
 
@@ -25,31 +25,31 @@ To make your repository more “complete interview prep”, consider adding:
 
 ## A. Must-have DSA set
 
-### `dsa/tree`
+### `collections/tree`
 - `BinaryTreeTraversals` (inorder/preorder/postorder iterative + recursive)
 - `LevelOrderTraversal` (BFS)
 - `LowestCommonAncestorBST`
 - `ValidateBinarySearchTree`
 - `TreeHeightAndDiameter`
 
-### `dsa/graph`
+### `collections/graph`
 - `GraphBFSDFS`
 - `CycleDetectionDirected`
 - `CycleDetectionUndirected`
 - `TopologicalSortKahn`
 - `ShortestPathDijkstra`
 
-### `dsa/heap`
+### `collections/heap`
 - `KthLargestElement`
 - `TopKFrequentElements`
 - `MergeKSortedArrays`
 
-### `dsa/queue`
+### `collections/queue`
 - `SlidingWindowMaximumDeque`
 - `ImplementQueueUsingStacks`
 - `LRUCache` (HashMap + DoublyLinkedList)
 
-### `dsa/dp`
+### `collections/dp`
 - `FibonacciMemoizationTabulation`
 - `ClimbingStairs`
 - `LongestCommonSubsequence`

@@ -38,20 +38,20 @@ organized by the topic demonstrated:
 
 ```text
 src/main/java/com/corejava/
-├── arrays/                         # Array problems and transformations
 ├── basics/                         # Core language and number examples
-├── characters/                     # Character counting and frequency
-├── strings/                        # String and StringBuffer examples
-├── streams/                        # Stream API and lambda examples
-│   └── collectors/                 # Collector-specific examples
+├── collections/                    # Collections, arrays, strings, and sorting
+│   ├── arrays/
+│   ├── characters/
+│   ├── lists/
+│   ├── maps/
+│   ├── sorting/                    # Comparable and Comparator examples
+│   ├── stacks/
+│   └── strings/
+├── streams/                        # Stream API, lambdas, and method references
+│   └── collectors/
 ├── company/epam/                   # Company-specific interview questions
 ├── interview/                      # General interview problems
-├── algorithms/recursion/           # Recursive algorithms
-├── algorithms/search/              # Linear and binary search
-├── datastructures/                 # Linked list, map, and stack examples
-├── collections/maps/               # Concurrent and synchronized maps
-├── functional/methodrefs/          # Method-reference examples
-├── oop/                            # Comparable and Comparator examples
+├── algorithms/                     # Recursion and searching
 └── patterns/                       # Factory and Singleton examples
 ```
 
@@ -75,12 +75,12 @@ namespaced.
 
 The package layout is intentionally topic-oriented so shared code immediately communicates breadth:
 
-- `com.corejava.basics`, `...arrays`, `...strings`, and `...characters` →
-  foundational problem sets
-- `com.corejava.streams` and `...streams.collectors` → Java 8 stream and
-  collector examples
-- `com.corejava.datastructures.*` and `...algorithms.*` → reusable data
-  structure and algorithm examples
+- `com.corejava.basics` and `com.corejava.collections.*` → foundational
+  language and collection problem sets
+- `com.corejava.streams` and `...streams.collectors` → Java 8 stream,
+  lambda, and collector examples
+- `com.corejava.algorithms.*` → recursion and searching examples
+- `com.corejava.collections.sorting` → Comparable and Comparator examples
 - `com.corejava.company.epam` → examples grouped by company
 
 This gives a professional “all major coding topics covered” signal when you share the repository link.
