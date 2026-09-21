@@ -33,19 +33,26 @@ Defined in `pom.xml`:
 
 ## Repository Structure
 
-```text
-src/main/java/com/corejavaprogramming/
-├── arrays/            # Array problems and transformations
-├── corejava/          # Core Java basics and utility examples
-├── designpattern/     # Factory and Singleton samples
-├── dsa/               # Linked list, map, stack examples
-├── hashmap/           # Concurrent and synchronized map examples
-├── streamapi/         # Java 8 stream/lambda/collector examples
-├── string/            # String algorithms and utilities
-├── stringbuffer/      # StringBuffer operations
-└── ...                # Comparable/comparator, recursion, servlet, etc.
+All application classes use the short `com.corejava` root package and are
+organized by the topic demonstrated:
 
-├── dsa/algorithm/      # Searching algorithms (LinearSearch, BinarySearch)
+```text
+src/main/java/com/corejava/
+├── arrays/                         # Array problems and transformations
+├── basics/                         # Core language and number examples
+├── characters/                     # Character counting and frequency
+├── strings/                        # String and StringBuffer examples
+├── streams/                        # Stream API and lambda examples
+│   └── collectors/                 # Collector-specific examples
+├── company/epam/                   # Company-specific interview questions
+├── interview/                      # General interview problems
+├── algorithms/recursion/           # Recursive algorithms
+├── algorithms/search/              # Linear and binary search
+├── datastructures/                 # Linked list, map, and stack examples
+├── collections/maps/               # Concurrent and synchronized maps
+├── functional/methodrefs/          # Method-reference examples
+├── oop/                            # Comparable and Comparator examples
+└── patterns/                       # Factory and Singleton examples
 ```
 
 
@@ -60,17 +67,21 @@ Recommended conventions:
 - Use topic-based subpackages under that base package (for example: `.arrays`, `.corejava`, `.dsa.searching`, `.streamapi`)
 - Avoid mixed naming styles such as `designPattern` and `methodReference`; prefer `designpattern` and `methodreference`
 
-This repository now uses a single unified base package, `com.corejavaprogramming`, so anyone reviewing the code can immediately recognize this as one consolidated collection of core Java coding topics.
+This repository uses the shorter unified base package, `com.corejava`, so
+package declarations remain readable while still being consistently
+namespaced.
 
 ## Topic Coverage via Package Structure
 
 The package layout is intentionally topic-oriented so shared code immediately communicates breadth:
 
-- `com.corejavaprogramming.corejava` → Java basics and foundational programs
-- `com.corejavaprogramming.arrays` and `...string` → common coding interview problem sets
-- `com.corejavaprogramming.dsa.*` → data structure and algorithm implementations
-- `com.corejavaprogramming.streamapi` and `...streamapi.collectors` → Java 8 functional style and collector patterns
-- `com.corejavaprogramming.designpattern` / `...comparable` / `...comparator` → OOP and design-oriented examples
+- `com.corejava.basics`, `...arrays`, `...strings`, and `...characters` →
+  foundational problem sets
+- `com.corejava.streams` and `...streams.collectors` → Java 8 stream and
+  collector examples
+- `com.corejava.datastructures.*` and `...algorithms.*` → reusable data
+  structure and algorithm examples
+- `com.corejava.company.epam` → examples grouped by company
 
 This gives a professional “all major coding topics covered” signal when you share the repository link.
 
@@ -113,14 +124,14 @@ mvn clean compile
 Most classes are standalone examples with a `main` method. After compilation, run a class directly:
 
 ```bash
-java -cp target/classes com.corejavaprogramming.corejava.FactorialNumber
+java -cp target/classes com.corejava.basics.FactorialNumber
 ```
 
 Additional examples:
 
 ```bash
-java -cp target/classes com.corejavaprogramming.dsa.algorithm.BinarySearch
-java -cp target/classes com.corejavaprogramming.streamapi.StreamAPI
+java -cp target/classes com.corejava.algorithms.search.BinarySearch
+java -cp target/classes com.corejava.streams.StreamAPI
 ```
 
 ## Learning Areas Covered

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3b486a1-8893-4183-ab08-94c4477eeac3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.jboss.ide.eclipse.as.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/arrays/ArraysOfStrinfUppercase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/arrays/IntersectionArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/arrays/PalindromeJava8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/arrays/PeakElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/arrays/RemoveDuplicateFromArrayStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/arrays/RemoveDuplicatefromArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/arrays/TargetIndices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/arrays/findGreaterElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/comparable/LambdaCompareToExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/comparator/EmployeeComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/corejava/FactorialNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/corejava/ForLoopExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/corejava/PrimeCheckIntStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/corejava/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/corejava/ReverseStringCharacterArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/corejava/ReverseStringLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/corejava/ReverseStringRecursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/corejava/SwapNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/corejava/ValidParenthesesCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/designpattern/FactoryPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/designpattern/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/dsa/algorithm/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/dsa/algorithm/LinearSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/dsa/linkedlist/IteratingLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/dsa/linkedlist/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/dsa/linkedlist/SortLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/dsa/map/CharCountMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/dsa/map/IteratorMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/dsa/stack/StackOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/hashmap/ConcurrentHashMapEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/hashmap/SynchronizedHashMapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/methodreference/ConstructorReference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/reccursion/PrintNumbersRecursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/servlet/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/CalculateSquareEx10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/CollectToMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/CollectoreJoining.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/ComparatorEx_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/ConsumerEx05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/EmployeeAvgSalary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/FilterNumbersEx01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/FrequencyEachCharacter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/FunctionEx06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/FunctionEx13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/GroupingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/IterateOverListEx08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/LambdaStringtoUppercaseEx11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/MethodReferenceEx13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/PredicateEx04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/ReduceExample12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/SeperateOddEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/SortingStringByLength03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/StreamAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/StreamEx07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/SumEvenNumberEx09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/SummationUsingStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/streamapi/collectors/CollectorsToMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/string/CountOccurenceString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/string/DuplicateCharacterString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/string/FirstNonRepeatingChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/string/LongestStringUsingJava8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/string/PalindromeCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/string/RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/string/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/string/countOccurenceUsingArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejavaprogramming/stringbuffer/StringBufferOperation.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/keval.chheda/git/CoreJavaProgramming" value="3Ja0TXbLputO26Ce9fNlYbn3SnZ" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3JZy1bQhztKkVlMQsZJr6a8TEPt" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArraysOfStrinfUppercase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindAllPairsWithTargetSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupingExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question03GroupAnagrams.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/keval.chheda/git/CoreJavaProgramming&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Question03GroupAnagrams">
+    <configuration name="ArraysOfStrinfUppercase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.corejavaprogramming.collections.arrays.ArraysOfStrinfUppercase" />
+      <module name="java-concepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corejavaprogramming.collections.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindAllPairsWithTargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.corejavaprogramming.epam.FindAllPairsWithTargetSum" />
+      <module name="java-concepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corejavaprogramming.epam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.corejavaprogramming.functional.streams.GroupingExample" />
+      <module name="java-concepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corejavaprogramming.functional.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question03GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.corejavaprogramming.epam.Question03GroupAnagrams" />
+      <module name="java-concepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corejavaprogramming.epam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="java-concepts" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CoreJavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CoreJavaProgramming" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Question03GroupAnagrams" />
+        <item itemvalue="Application.GroupingExample" />
+        <item itemvalue="Application.FindAllPairsWithTargetSum" />
+        <item itemvalue="Application.ArraysOfStrinfUppercase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3b486a1-8893-4183-ab08-94c4477eeac3" name="Changes" comment="" />
+      <created>1789882671171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789882671171</updated>
+    </task>
+    <servers />
+  </component>
+</project>
