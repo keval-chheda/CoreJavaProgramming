@@ -5,11 +5,11 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.keval.javaconcepts</groupId>
-    <artifactId>java-concepts</artifactId>
+    <groupId>com.corejava</groupId>
+    <artifactId>core-java-programming</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>java-concepts</name>
+    <name>Core Java Programming</name>
     <description>Core Java examples and practice repository</description>
 
     <properties>

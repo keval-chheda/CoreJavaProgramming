@@ -8,38 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3b486a1-8893-4183-ab08-94c4477eeac3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/collectors/Palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/basics/FactorialNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/basics/FactorialNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/basics/ForLoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/basics/ForLoopExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/basics/ReverseStringWithCharacterArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/basics/ReverseStringWithCharacterArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/basics/ReverseStringWithLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/basics/ReverseStringWithLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/GreaterElementFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/GreaterElementFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/IntersectionArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/IntersectionArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/MoveZeroesInPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/MoveZeroesInPlace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/PalindromeJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/PalindromeJava8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/PeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/PeakElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/RemoveDuplicateArrayElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/arrays/RemoveDuplicateArrayElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/characters/CharCountMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/characters/CharCountMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/characters/FrequencyEachCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/characters/FrequencyEachCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/lists/SortLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/lists/SortLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/maps/ConcurrentHashMapEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/maps/ConcurrentHashMapEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/strings/CharacterOccurrenceInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/strings/CharacterOccurrenceInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/strings/CharacterOccurrenceUsingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/strings/CharacterOccurrenceUsingArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/strings/DuplicateCharacterString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/strings/DuplicateCharacterString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/collections/strings/FirstNonRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/collections/strings/FirstNonRepeatingChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/company/epam/FindMaximumElementinArrayAndItsIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/company/epam/FindMaximumElementinArrayAndItsIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/company/epam/PalindromeUsingStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/company/epam/PalindromeUsingStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/CalculateSquareEx10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/CalculateSquareEx10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/EmployeeAvgSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/EmployeeAvgSalary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/FunctionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/FunctionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/LambdaStringtoUppercaseEx11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/LambdaStringtoUppercaseEx11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/MethodReferenceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/MethodReferenceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/ReduceExample12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/ReduceExample12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/SeparateOddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/SeparateOddEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/SortingStringByLength03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/SortingStringByLength03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/StreamEx07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/StreamEx07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/streams/SummationUsingStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corejava/streams/SummationUsingStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corejava/basics/ForLoopExample.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +40,22 @@
 }</component>
   <component name="ProjectId" id="3JZy1bQhztKkVlMQsZJr6a8TEPt" />
   <component name="ProjectSessionTemplates">
-    <option name="panelTemplate">
+    <option name="inlineTemplate">
       <template>
         <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Ask" />
         <option name="model">
           <model>
             <option name="modelType" value="builtin_id" />
@@ -84,33 +71,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArraysOfStrinfUppercase.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindAllPairsWithTargetSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GroupingExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question03GroupAnagrams.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/keval.chheda/git/CoreJavaProgramming&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayInterviewQuestions.executor": "Run",
+    "Application.ArraysOfStrinfUppercase.executor": "Run",
+    "Application.FactorialNumber.executor": "Run",
+    "Application.FindAllPairsWithTargetSum.executor": "Run",
+    "Application.GroupingExample.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PrimeNumberCheck.executor": "Run",
+    "Application.Question03GroupAnagrams.executor": "Run",
+    "Maven.core-java-programming [clean].executor": "Run",
+    "Maven.core-java-programming [install].executor": "Run",
+    "Maven.core-java-programming.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/keval.chheda/git/CoreJavaProgramming",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.Question03GroupAnagrams">
-    <configuration name="ArraysOfStrinfUppercase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ArrayInterviewQuestions">
+    <configuration name="ArrayInterviewQuestions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.corejavaprogramming.collections.arrays.ArraysOfStrinfUppercase" />
-      <module name="java-concepts" />
+      <option name="MAIN_CLASS_NAME" value="com.corejava.company.cognizant.ArrayInterviewQuestions" />
+      <module name="core-java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.corejavaprogramming.collections.arrays.*" />
+          <option name="PATTERN" value="com.corejava.company.cognizant.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,14 +118,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindAllPairsWithTargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.corejavaprogramming.epam.FindAllPairsWithTargetSum" />
-      <module name="java-concepts" />
+      <option name="MAIN_CLASS_NAME" value="com.corejava.basics.FactorialNumber" />
+      <module name="core-java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.corejavaprogramming.epam.*" />
+          <option name="PATTERN" value="com.corejava.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,14 +133,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.corejavaprogramming.functional.streams.GroupingExample" />
-      <module name="java-concepts" />
+      <option name="MAIN_CLASS_NAME" value="com.corejava.streams.collectors.Palindrome" />
+      <module name="core-java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.corejavaprogramming.functional.streams.*" />
+          <option name="PATTERN" value="com.corejava.streams.collectors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,14 +148,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question03GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimeNumberCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.corejavaprogramming.epam.Question03GroupAnagrams" />
-      <module name="java-concepts" />
+      <option name="MAIN_CLASS_NAME" value="com.corejava.basics.PrimeNumberCheck" />
+      <module name="core-java-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.corejavaprogramming.epam.*" />
+          <option name="PATTERN" value="com.corejava.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +182,40 @@
       <option name="filePath" />
       <method v="2" />
     </configuration>
+    <configuration name="core-java-programming" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question03GroupAnagrams" />
-        <item itemvalue="Application.GroupingExample" />
-        <item itemvalue="Application.FindAllPairsWithTargetSum" />
-        <item itemvalue="Application.ArraysOfStrinfUppercase" />
+        <item itemvalue="Application.ArrayInterviewQuestions" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.PrimeNumberCheck" />
+        <item itemvalue="Application.FactorialNumber" />
       </list>
     </recent_temporary>
   </component>

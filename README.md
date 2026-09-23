@@ -27,8 +27,8 @@ The codebase is ideal for:
 
 Defined in `pom.xml`:
 
-- **Group ID:** `com.keval.javaconcepts`
-- **Artifact ID:** `java-concepts`
+- **Group ID:** `com.corejava`
+- **Artifact ID:** `core-java-programming`
 - **Version:** `1.0-SNAPSHOT`
 
 ## Repository Structure
@@ -50,6 +50,7 @@ src/main/java/com/corejava/
 ├── streams/                        # Stream API, lambdas, and method references
 │   └── collectors/
 ├── company/epam/                   # Company-specific interview questions
+├── company/cognizant/              # Experienced-level Cognizant questions
 ├── interview/                      # General interview problems
 ├── algorithms/                     # Recursion and searching
 └── patterns/                       # Factory and Singleton examples
@@ -82,6 +83,8 @@ The package layout is intentionally topic-oriented so shared code immediately co
 - `com.corejava.algorithms.*` → recursion and searching examples
 - `com.corejava.collections.sorting` → Comparable and Comparator examples
 - `com.corejava.company.epam` → examples grouped by company
+- `com.corejava.company.cognizant` → array, string, stream, and
+  multithreading interview patterns for 5–6 years of experience
 
 This gives a professional “all major coding topics covered” signal when you share the repository link.
 
